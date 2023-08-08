@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "USB-A")(type "KiCad")(uri "C:/Station_de_test/Kicad/Import_library/USB-A")(options "")(descr "")(disabled))
+  (lib (name "9001-11961")(type "KiCad")(uri "C:/Station_de_test/Kicad/Import_library/9001-11961")(options "")(descr "")(disabled))
+  (lib (name "RJ45")(type "KiCad")(uri "C:/Station_de_test/Kicad/Import_library/RJ45")(options "")(descr "")(disabled))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library/Library.pretty")(options "")(descr ""))
+)
