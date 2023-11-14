@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "7.0.5"
     },
-    "CreationDate": "2023-08-08T11:46:24-04:00"
+    "CreationDate": "2023-10-26T11:04:28-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "selftest_bd",
       "GUID": "73656c66-7465-4737-945f-62642e6b6963",
-      "Revision": "1.0"
+      "Revision": "2.0"
     },
     "Size": {
       "X": 300.16,
@@ -43,58 +43,8 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "selftest_bd-F_Cu.gtl",
-      "FileFunction": "Copper,L1,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "selftest_bd-PWR.g2",
-      "FileFunction": "Copper,L2,Inr",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "selftest_bd-GND.g3",
-      "FileFunction": "Copper,L3,Inr",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "selftest_bd-B_Cu.gbl",
-      "FileFunction": "Copper,L4,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "selftest_bd-F_Paste.gtp",
-      "FileFunction": "SolderPaste,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "selftest_bd-B_Paste.gbp",
-      "FileFunction": "SolderPaste,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "selftest_bd-F_Silkscreen.gto",
-      "FileFunction": "Legend,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "selftest_bd-B_Silkscreen.gbo",
-      "FileFunction": "Legend,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "selftest_bd-F_Mask.gts",
-      "FileFunction": "SolderMask,Top",
-      "FilePolarity": "Negative"
-    },
-    {
-      "Path": "selftest_bd-B_Mask.gbs",
-      "FileFunction": "SolderMask,Bot",
-      "FilePolarity": "Negative"
-    },
-    {
-      "Path": "selftest_bd-Edge_Cuts.gm1",
-      "FileFunction": "Profile",
+      "Path": "selftest_bd-F_Fab.gbr",
+      "FileFunction": "AssemblyDrawing,Top",
       "FilePolarity": "Positive"
     }
   ],

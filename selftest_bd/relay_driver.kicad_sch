@@ -5,9 +5,9 @@
   (paper "A")
 
   (title_block
-    (title "FIRST TEST STATION SELFTEST BOARD 640-1010-010")
-    (date "2023-05-16")
-    (rev "1.0")
+    (title "FIRST TEST STATION SELFTEST BOARD 640-1010-020")
+    (date "2023-10-01")
+    (rev "2.0")
   )
 
   (lib_symbols
@@ -1975,7 +1975,7 @@
   (symbol (lib_id "Library:TQ2-5_Split") (at 157.48 30.48 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 094837a1-d5a1-42ef-a18a-9d8f2227792e)
-    (property "Reference" "K2" (at 163.83 29.2099 0)
+    (property "Reference" "K3" (at 163.83 29.2099 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TQ2-5_Split" (at 158.75 24.13 0)
@@ -1998,7 +1998,7 @@
     (instances
       (project "selftest_bd"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/3c0146c9-302b-4005-9f50-7766581fb71a"
-          (reference "K2") (unit 1)
+          (reference "K3") (unit 1)
         )
       )
     )
@@ -2436,7 +2436,7 @@
   (symbol (lib_id "Library:TQ2-5_Split") (at 176.53 30.48 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 392e822f-e585-4da3-a334-b1ae72b49c42)
-    (property "Reference" "K5" (at 182.88 29.2099 0)
+    (property "Reference" "K14" (at 182.88 29.2099 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TQ2-5_Split" (at 177.8 24.13 0)
@@ -2459,7 +2459,7 @@
     (instances
       (project "selftest_bd"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/3c0146c9-302b-4005-9f50-7766581fb71a"
-          (reference "K5") (unit 1)
+          (reference "K14") (unit 1)
         )
       )
     )
@@ -2520,7 +2520,7 @@
   (symbol (lib_id "Library:TQ2-5_Split") (at 237.49 30.48 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3f38229d-c9d3-4359-91ac-95c86c4a5ed6)
-    (property "Reference" "K7" (at 243.84 29.2099 0)
+    (property "Reference" "K2" (at 243.84 29.2099 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TQ2-5_Split" (at 240.03 24.13 0)
@@ -2543,7 +2543,7 @@
     (instances
       (project "selftest_bd"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/3c0146c9-302b-4005-9f50-7766581fb71a"
-          (reference "K7") (unit 1)
+          (reference "K2") (unit 1)
         )
       )
     )
@@ -2660,7 +2660,7 @@
   (symbol (lib_id "Library:TQ2-5_Split") (at 215.9 83.82 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4a876c5e-c9d8-4c0e-8c76-1fa073b4bc65)
-    (property "Reference" "K12" (at 222.25 82.5499 0)
+    (property "Reference" "K4" (at 222.25 82.5499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TQ2-5_Split" (at 218.44 77.47 0)
@@ -2683,7 +2683,7 @@
     (instances
       (project "selftest_bd"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/3c0146c9-302b-4005-9f50-7766581fb71a"
-          (reference "K12") (unit 1)
+          (reference "K4") (unit 1)
         )
       )
     )
@@ -2717,7 +2717,7 @@
   (symbol (lib_id "Library:TQ2-5_Split") (at 137.16 30.48 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4c8b94e8-5bd2-43a8-a264-095229344b6f)
-    (property "Reference" "K9" (at 143.51 29.2099 0)
+    (property "Reference" "K7" (at 143.51 29.2099 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TQ2-5_Split" (at 139.7 24.13 0)
@@ -2740,7 +2740,7 @@
     (instances
       (project "selftest_bd"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/3c0146c9-302b-4005-9f50-7766581fb71a"
-          (reference "K9") (unit 1)
+          (reference "K7") (unit 1)
         )
       )
     )
@@ -2774,7 +2774,7 @@
   (symbol (lib_id "Library:TQ2-5_Split") (at 195.58 83.82 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 594079ef-2b02-45f3-afb9-3a64c1fb59f8)
-    (property "Reference" "K6" (at 201.93 82.5499 0)
+    (property "Reference" "K5" (at 201.93 82.5499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TQ2-5_Split" (at 198.12 77.47 0)
@@ -2797,7 +2797,7 @@
     (instances
       (project "selftest_bd"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/3c0146c9-302b-4005-9f50-7766581fb71a"
-          (reference "K6") (unit 1)
+          (reference "K5") (unit 1)
         )
       )
     )
@@ -2806,7 +2806,7 @@
   (symbol (lib_id "Library:TQ2-5_Split") (at 119.38 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 59784f17-da00-4256-ac8e-cd94b66c2d90)
-    (property "Reference" "K15" (at 125.73 138.4299 0)
+    (property "Reference" "K11" (at 125.73 138.4299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TQ2-5_Split" (at 121.92 133.35 0)
@@ -2829,7 +2829,7 @@
     (instances
       (project "selftest_bd"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/3c0146c9-302b-4005-9f50-7766581fb71a"
-          (reference "K15") (unit 1)
+          (reference "K11") (unit 1)
         )
       )
     )
@@ -2948,7 +2948,7 @@
   (symbol (lib_id "Library:TQ2-5_Split") (at 116.84 30.48 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6858d6fe-d608-430e-8455-322c32184e81)
-    (property "Reference" "K13" (at 123.19 29.2099 0)
+    (property "Reference" "K8" (at 123.19 29.2099 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TQ2-5_Split" (at 119.38 24.13 0)
@@ -2971,7 +2971,7 @@
     (instances
       (project "selftest_bd"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/3c0146c9-302b-4005-9f50-7766581fb71a"
-          (reference "K13") (unit 1)
+          (reference "K8") (unit 1)
         )
       )
     )
@@ -3098,7 +3098,7 @@
   (symbol (lib_id "Library:TQ2-5_Split") (at 152.4 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 893a8268-065c-4bef-b473-73cae3089d30)
-    (property "Reference" "K16" (at 158.75 138.4299 0)
+    (property "Reference" "K12" (at 158.75 138.4299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TQ2-5_Split" (at 154.94 133.35 0)
@@ -3121,7 +3121,7 @@
     (instances
       (project "selftest_bd"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/3c0146c9-302b-4005-9f50-7766581fb71a"
-          (reference "K16") (unit 1)
+          (reference "K12") (unit 1)
         )
       )
     )
@@ -3311,7 +3311,7 @@
   (symbol (lib_id "Library:TQ2-5_Split") (at 215.9 30.48 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 97dfdd4e-cc30-4350-8ad5-cdbc61a33415)
-    (property "Reference" "K8" (at 222.25 29.2099 0)
+    (property "Reference" "K16" (at 222.25 29.2099 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TQ2-5_Split" (at 218.44 24.13 0)
@@ -3334,7 +3334,7 @@
     (instances
       (project "selftest_bd"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/3c0146c9-302b-4005-9f50-7766581fb71a"
-          (reference "K8") (unit 1)
+          (reference "K16") (unit 1)
         )
       )
     )
@@ -3368,7 +3368,7 @@
   (symbol (lib_id "Library:TQ2-5_Split") (at 195.58 30.48 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9a6626ba-1f69-424f-9cae-0d40c2d34c7f)
-    (property "Reference" "K4" (at 201.93 29.2099 0)
+    (property "Reference" "K15" (at 201.93 29.2099 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TQ2-5_Split" (at 198.12 24.13 0)
@@ -3391,7 +3391,7 @@
     (instances
       (project "selftest_bd"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/3c0146c9-302b-4005-9f50-7766581fb71a"
-          (reference "K4") (unit 1)
+          (reference "K15") (unit 1)
         )
       )
     )
@@ -3688,7 +3688,7 @@
   (symbol (lib_id "Library:TQ2-5_Split") (at 85.09 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c3f74db0-caa1-41b5-a25d-559c388030d8)
-    (property "Reference" "K14" (at 91.44 138.4299 0)
+    (property "Reference" "K10" (at 91.44 138.4299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TQ2-5_Split" (at 87.63 133.35 0)
@@ -3711,7 +3711,7 @@
     (instances
       (project "selftest_bd"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/3c0146c9-302b-4005-9f50-7766581fb71a"
-          (reference "K14") (unit 1)
+          (reference "K10") (unit 1)
         )
       )
     )
@@ -3720,7 +3720,7 @@
   (symbol (lib_id "Library:TQ2-5_Split") (at 137.16 83.82 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d3091788-847b-4315-b105-bf114f378ba8)
-    (property "Reference" "K10" (at 143.51 82.5499 0)
+    (property "Reference" "K13" (at 143.51 82.5499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TQ2-5_Split" (at 139.7 77.47 0)
@@ -3743,7 +3743,7 @@
     (instances
       (project "selftest_bd"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/3c0146c9-302b-4005-9f50-7766581fb71a"
-          (reference "K10") (unit 1)
+          (reference "K13") (unit 1)
         )
       )
     )
@@ -3778,7 +3778,7 @@
   (symbol (lib_id "Library:TQ2-5_Split") (at 116.84 83.82 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d505ce96-e41b-4f5b-9c22-712532b3018c)
-    (property "Reference" "K3" (at 123.19 82.5499 0)
+    (property "Reference" "K9" (at 123.19 82.5499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TQ2-5_Split" (at 119.38 77.47 0)
@@ -3801,7 +3801,7 @@
     (instances
       (project "selftest_bd"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/3c0146c9-302b-4005-9f50-7766581fb71a"
-          (reference "K3") (unit 1)
+          (reference "K9") (unit 1)
         )
       )
     )
@@ -3887,7 +3887,7 @@
   (symbol (lib_id "Library:TQ2-5_Split") (at 157.48 83.82 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid dbcc672e-1ca3-4c89-a298-b899d0b3ef04)
-    (property "Reference" "K11" (at 163.83 82.5499 0)
+    (property "Reference" "K6" (at 163.83 82.5499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TQ2-5_Split" (at 158.75 77.47 0)
@@ -3910,7 +3910,7 @@
     (instances
       (project "selftest_bd"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/3c0146c9-302b-4005-9f50-7766581fb71a"
-          (reference "K11") (unit 1)
+          (reference "K6") (unit 1)
         )
       )
     )

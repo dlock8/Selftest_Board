@@ -1,5 +1,5 @@
 Drill report for selftest_bd.kicad_pcb
-Created on 2023-08-08 11:46:34 AM
+Created on 2023-10-25 8:27:22 PM
 
 Copper Layer Stackup:
     =============================================================
@@ -12,22 +12,21 @@ Copper Layer Stackup:
 Drill file 'selftest_bd-PTH.drl' contains
     plated through holes:
     =============================================================
-    T1  0.400mm  0.0157"  (21 holes)
-    T2  0.600mm  0.0236"  (4 holes)
-    T3  0.700mm  0.0276"  (36 holes)
-    T4  0.750mm  0.0295"  (6 holes)
-    T5  0.800mm  0.0315"  (68 holes)
-    T6  0.900mm  0.0354"  (844 holes)
-    T7  0.920mm  0.0362"  (4 holes)
-    T8  1.000mm  0.0394"  (378 holes)
-    T9  1.020mm  0.0402"  (43 holes)
-    T10  1.200mm  0.0472"  (4 holes)
-    T11  1.500mm  0.0591"  (4 holes)
-    T12  1.600mm  0.0630"  (4 holes)
-    T13  2.330mm  0.0917"  (2 holes)
-    T14  2.800mm  0.1102"  (4 holes)
+    T1  0.400mm  0.0157"  (32 holes)
+    T2  0.700mm  0.0276"  (32 holes)
+    T3  0.750mm  0.0295"  (6 holes)
+    T4  0.800mm  0.0315"  (72 holes)
+    T5  0.900mm  0.0354"  (848 holes)
+    T6  0.920mm  0.0362"  (4 holes)
+    T7  1.000mm  0.0394"  (378 holes)
+    T8  1.020mm  0.0402"  (43 holes)
+    T9  1.200mm  0.0472"  (4 holes)
+    T10  1.500mm  0.0591"  (4 holes)
+    T11  1.600mm  0.0630"  (4 holes)
+    T12  2.330mm  0.0917"  (2 holes)
+    T13  2.800mm  0.1102"  (4 holes)
 
-    Total plated holes count 1422
+    Total plated holes count 1433
 
 
 Drill file 'selftest_bd-NPTH.drl' contains

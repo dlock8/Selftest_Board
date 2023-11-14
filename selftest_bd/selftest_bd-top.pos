@@ -1,0 +1,62 @@
+### Footprint positions - created on Wed Oct 25 20:32:21 2023 ###
+### Printed by KiCad version 7.0.5
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val             Package                                                  PosX       PosY       Rot  Side
+C1        0.1uF           C_Disc_D6.0mm_W2.5mm_P5.00mm                         231.1110  -116.0190  180.0000  top
+C2        10uF            CP_Radial_Tantal_D4.5mm_P2.50mm                      145.1250  -115.3840    0.0000  top
+C3        10uF            CP_Radial_Tantal_D4.5mm_P2.50mm                      264.3791   -36.7710    0.0000  top
+D1        1N4148          D_DO-35_SOD27_P7.62mm_Horizontal                      66.0252   -98.2762  180.0000  top
+D2        1N4148          D_DO-35_SOD27_P7.62mm_Horizontal                      66.0402  -119.7782  180.0000  top
+D3        1N4148          D_DO-35_SOD27_P7.62mm_Horizontal                      66.3752   -76.9262  180.0000  top
+D4        LED             LED_D3.0mm                                           163.0632  -138.4218    0.0000  top
+D5        LED             LED_D3.0mm                                           246.0450  -138.5234    0.0000  top
+J1        9001-14961C00A  900114961C00A                                        177.6478    -5.1653  180.0000  top
+J2        9001-14961C00A  900114961C00A                                         43.6120    -5.1653  180.0000  top
+J3        RJ45            CUI_CRJ028-1H-TH                                     217.9830  -136.3390    0.0000  top
+J4        USB-VERTICAL    ONSHORE_USB-A1VSB6                                   187.6384  -136.8851    0.0000  top
+J5        8_x_2.54mm      PinSocket_1x08_P2.54mm_Vertical                      267.9320  -104.1856   90.0000  top
+J6        8_x_2.54mm      PinSocket_1x08_P2.54mm_Vertical                      268.1356   -66.0856   90.0000  top
+K1        TQ2-5           Relay_DPDT_FRT5                                      145.5422   -75.2056  180.0000  top
+K2        TQ2-5           Relay_DPDT_FRT5                                       86.0152  -114.2262  180.0000  top
+K3        TQ2-5           Relay_DPDT_FRT5                                      126.0152   -95.2262  180.0000  top
+K4        TQ2-5           Relay_DPDT_FRT5                                      126.0152  -114.2262  180.0000  top
+K5        TQ2-5           Relay_DPDT_FRT5                                      106.2152  -114.2262  180.0000  top
+K6        TQ2-5           Relay_DPDT_FRT5                                       46.0852   -71.7562  180.0000  top
+K7        TQ2-5           Relay_DPDT_FRT5                                      106.0152   -95.2262  180.0000  top
+K8        TQ2-5           Relay_DPDT_FRT5                                       86.0152   -95.2262  180.0000  top
+K9        TQ2-5           Relay_DPDT_FRT5                                       46.0852   -92.6162  180.0000  top
+K10       TQ2-5           Relay_DPDT_FRT5                                       65.9282   -92.6162  180.0000  top
+K11       TQ2-5           Relay_DPDT_FRT5                                       65.9282  -114.2262  180.0000  top
+K12       TQ2-5           Relay_DPDT_FRT5                                       65.9386   -71.6706  180.0000  top
+K13       TQ2-5           Relay_DPDT_FRT5                                       46.0152  -114.2262  180.0000  top
+K14       TQ2-5           Relay_DPDT_FRT5                                       86.0152   -75.1962  180.0000  top
+K15       TQ2-5           Relay_DPDT_FRT5                                      106.0152   -75.2216  180.0000  top
+K16       TQ2-5           Relay_DPDT_FRT5                                      125.9484   -75.2216  180.0000  top
+K17       TQ2-5           Relay_DPDT_FRT5                                       47.5135  -144.6543  180.0000  top
+R1        100             R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal    147.2152  -103.1862   90.0000  top
+R2        10              R_Axial_DIN0617_L17.0mm_D6.0mm_P25.40mm_Horizontal   140.2152  -110.0262   90.0000  top
+R3        10K             R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal     16.2562   -96.8166    0.0000  top
+R4        10K             R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal     16.3062  -101.4666    0.0000  top
+R5        4.7             R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal     21.1330   -28.8970    0.0000  top
+R6        10              R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal     13.5130   -37.4822   90.0000  top
+R7        4.7             R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal     21.0568   -37.0504    0.0000  top
+R8        4.7K            R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal    261.6710  -119.0670  180.0000  top
+R9        4.7K            R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal    261.6710  -123.7660  180.0000  top
+R10       10K             R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal    213.6650   -91.5080   90.0000  top
+R11       10K             R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal    201.8540   -91.3810   90.0000  top
+R12       10              R_Axial_DIN0617_L17.0mm_D6.0mm_P25.40mm_Horizontal   148.5394   -38.1426   90.0000  top
+R13       1K              R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal    160.4266   -27.5508   90.0000  top
+R14       1K              R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal     31.8010   -47.6930  180.0000  top
+R15       220             R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal    169.1642  -130.5986  180.0000  top
+R16       150             R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal    252.8064  -131.7416  180.0000  top
+TP3       3V3_TESTPOINT   TestPoint_Loop_D2.54mm_Drill1.5mm_Beaded             237.2108  -124.0454    0.0000  top
+TP6       GND_TESTPOINT   TestPoint_Loop_D2.54mm_Drill1.5mm_Beaded             135.5854  -137.9138    0.0000  top
+TP37      VCC_TESTPOINT   TestPoint_Loop_D2.54mm_Drill1.5mm_Beaded             166.0400  -119.0162    0.0000  top
+TP38      DIG_PWR         TestPoint_Loop_D2.54mm_Drill1.5mm_Beaded             255.2448   -41.0209    0.0000  top
+U1        Pico            RPi_Pico_SMD_TH                                      235.3570   -81.9330  180.0000  top
+U2        ULN2003A        DIP-16_W7.62mm_LongPads                              186.5886   -81.2718  180.0000  top
+U3        ULN2003A        DIP-16_W7.62mm_LongPads                              186.4362  -110.1516  180.0000  top
+U4        DS2431          TO-92_HandSolder                                     163.5508   -34.3580    0.0000  top
+U5        DS2431          TO-92_HandSolder                                      43.9930   -48.8360    0.0000  top
+## End
