@@ -1,7 +1,7 @@
 # FIRST STATION TEST Selftest Board 600-1010-021
 
 ## Project Overview
-This project involves the assembly of a custom **Selftest Circuit Board (PCB)** designed to be part of the **First Test Station** project [FTS](dlock8.github.io/FTS_Website/). The primary goal of the selftest board is to provide the necessary electronics and multiple connections to validate the [Selftest Board](https://github.com/dlock8/Selftest_code) .
+This project involves the assembly of a custom **Selftest Circuit Board (PCB)** designed to be part of the **First Test Station** project ([FTS](https://dlock8.github.io/FTS_Website/)). The primary goal of the selftest board is to provide the necessary electronics and multiple connections to validate the [Interconnect IO Box](https://github.com/dlock8/InterconnectIO_Box) .
 
 
  ![Board](selftest_bd/DOC/image/selftest_bd_loaded.jpg)
@@ -24,7 +24,7 @@ This project involves the assembly of a custom **Selftest Circuit Board (PCB)** 
 ## Design Files
 - [Gerber Files](selftest_bd/gerber_to_order) – Gerber files for PCB fabrication (JLCPCB is the one used by the project).
 - [Assembly Schematic](selftest_bd/pdf/Selftest_Assembly_Diagram.pdf) – Parts and value to help hand assemblies of components.
-- [Electrical Schematic](selftest_bd/pdf/Selftest_schematic.pdf) – Review the full electrical schematic diagram for reference.
+- [Electrical Schematic](selftest_bd/pdf/Selftest_Schematic.pdf) – Review the full electrical schematic diagram for reference.
 - [Bill of Materials (BOM)](selftest_bd/pdf/BOM_Selftest_Board_600-1010.pdf) – List of components required for assembly.
 
 ---
