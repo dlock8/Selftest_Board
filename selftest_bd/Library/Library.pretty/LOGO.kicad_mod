@@ -3,11 +3,11 @@
   (attr smd board_only exclude_from_pos_files exclude_from_bom)
   (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
-    (tstamp ec307baa-fc01-42d2-b4c5-3df70dd8d584)
+    (tstamp 9c6795d6-d1f8-4143-ba71-da31dfc9b91a)
   )
   (fp_text value "LOGO" (at 0.75 0) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
-    (tstamp 939aa695-dfae-4ddc-b966-2ea4b864b9f5)
+    (tstamp d91c3c7b-d6ea-4a19-a71e-d00a4b7a81b0)
   )
   (fp_poly
     (pts
@@ -92,7 +92,7 @@
       (xy 2.464749 -3.054431)
     )
 
-    (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp fb0bdeff-74f7-41ea-9b42-c0529e3699b2))
+    (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp d5deca45-ef7e-49ff-a0aa-ffe07ce81a3f))
   (fp_poly
     (pts
       (xy 2.958455 -4.30371)
@@ -209,7 +209,7 @@
       (xy 2.518566 -4.311215)
     )
 
-    (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 9ed1829b-200c-4ed8-b7d0-98552520ab9b))
+    (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 737fdfeb-6476-4e4f-8744-c47ff31cc661))
   (fp_poly
     (pts
       (xy 2.991527 -3.552071)
@@ -365,5 +365,5 @@
       (xy 2.491772 -3.563502)
     )
 
-    (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp c4dd57b9-8a57-4c9e-b10e-849bf133a96a))
+    (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 2c89d005-cc1c-40cd-a95d-cd8caa25d843))
 )

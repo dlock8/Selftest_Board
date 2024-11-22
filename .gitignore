@@ -1,5 +1,10 @@
 *backups
 .bak
 .kicad_sch-bak
-.~$
+*~$
+-cache
+-table
+.FCStd
+.step
+
 

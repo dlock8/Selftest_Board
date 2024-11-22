@@ -5,9 +5,9 @@
   (paper "A")
 
   (title_block
-    (title "FIRST TEST STATION SELFTEST BOARD 640-1010-020")
+    (title "FIRST TEST STATION SELFTEST BOARD 640-1010-021")
     (date "2023-10-01")
-    (rev "2.0")
+    (rev "2.1")
   )
 
   (lib_symbols
@@ -1780,10 +1780,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "PM1_IO8" (shape bidirectional) (at 30.48 95.25 180) (fields_autoplaced)
+  (global_label "PM1_IO0" (shape bidirectional) (at 30.48 95.25 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 6c94c789-f5b8-4a8c-baa9-71324ddb3abb)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 20.0236 95.1706 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 18.4196 95.25 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -1913,10 +1913,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "PM1_IO9" (shape bidirectional) (at 30.48 102.87 180) (fields_autoplaced)
+  (global_label "PM1_IO1" (shape bidirectional) (at 30.48 102.87 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid f226543a-b256-41be-82fa-e8059648825f)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 20.0236 102.7906 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 18.4196 102.87 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )

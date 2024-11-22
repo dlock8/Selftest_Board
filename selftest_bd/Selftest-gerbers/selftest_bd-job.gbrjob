@@ -5,20 +5,20 @@
       "Application": "Pcbnew",
       "Version": "7.0.5"
     },
-    "CreationDate": "2023-10-26T11:04:28-04:00"
+    "CreationDate": "2024-10-12T11:25:09-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "selftest_bd",
       "GUID": "73656c66-7465-4737-945f-62642e6b6963",
-      "Revision": "2.0"
+      "Revision": "2.1"
     },
     "Size": {
       "X": 300.16,
       "Y": 150.16
     },
     "LayerNumber": 4,
-    "BoardThickness": 4.69,
+    "BoardThickness": 1.6,
     "Finish": "None"
   },
   "DesignRules": [
@@ -43,8 +43,88 @@
   ],
   "FilesAttributes": [
     {
+      "Path": "selftest_bd-F_Cu.gtl",
+      "FileFunction": "Copper,L1,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "selftest_bd-PWR.g2",
+      "FileFunction": "Copper,L2,Inr",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "selftest_bd-GND.g3",
+      "FileFunction": "Copper,L3,Inr",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "selftest_bd-B_Cu.gbl",
+      "FileFunction": "Copper,L4,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "selftest_bd-F_Adhesive.gta",
+      "FileFunction": "Glue,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "selftest_bd-B_Adhesive.gba",
+      "FileFunction": "Glue,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "selftest_bd-F_Paste.gtp",
+      "FileFunction": "SolderPaste,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "selftest_bd-B_Paste.gbp",
+      "FileFunction": "SolderPaste,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "selftest_bd-F_Silkscreen.gto",
+      "FileFunction": "Legend,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "selftest_bd-B_Silkscreen.gbo",
+      "FileFunction": "Legend,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "selftest_bd-F_Mask.gts",
+      "FileFunction": "SolderMask,Top",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "selftest_bd-B_Mask.gbs",
+      "FileFunction": "SolderMask,Bot",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "selftest_bd-User_Drawings.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "selftest_bd-User_Comments.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "selftest_bd-Edge_Cuts.gm1",
+      "FileFunction": "Profile",
+      "FilePolarity": "Positive"
+    },
+    {
       "Path": "selftest_bd-F_Fab.gbr",
       "FileFunction": "AssemblyDrawing,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "selftest_bd-B_Fab.gbr",
+      "FileFunction": "AssemblyDrawing,Bot",
       "FilePolarity": "Positive"
     }
   ],
@@ -70,7 +150,7 @@
     },
     {
       "Type": "Dielectric",
-      "Thickness": 1.51,
+      "Thickness": 0.1,
       "Material": "FR4",
       "Name": "F.Cu/PWR",
       "Notes": "Type: dielectric layer 1 (from F.Cu to PWR)"
@@ -82,7 +162,7 @@
     },
     {
       "Type": "Dielectric",
-      "Thickness": 1.51,
+      "Thickness": 1.24,
       "Material": "FR4",
       "Name": "PWR/GND",
       "Notes": "Type: dielectric layer 2 (from PWR to GND)"
@@ -94,7 +174,7 @@
     },
     {
       "Type": "Dielectric",
-      "Thickness": 1.51,
+      "Thickness": 0.1,
       "Material": "FR4",
       "Name": "GND/B.Cu",
       "Notes": "Type: dielectric layer 3 (from GND to B.Cu)"
