@@ -1,11 +1,24 @@
-# FIRST STATION TEST Selftest Board 600-1010-021
+# FIRST STATION TEST Selftest Box Assembly 500-1010-021
 
 ## Project Overview
-This project involves the assembly of a custom **Selftest Circuit Board (PCB)** designed to be part of the **First Test Station** project ([FTS](https://dlock8.github.io/FTS_Website/)). The primary goal of the selftest board is to provide the necessary electronics and multiple connections to validate the [Interconnect IO Box](https://github.com/dlock8/InterconnectIO_Box) .
+This project involves the assembly of a custom **Selftest Circuit Board (PCB)** designed to be part of the **First TestStation** project ([FTS](https://dlock8.github.io/FTS_Website/)).<br>
+The primary goal of the selftest board is to provide the necessary electronics and multiple connections to validate the [Interconnect IO Box](https://github.com/dlock8/InterconnectIO_Box).<br>
 
+## Note
+Due to minor additions, the Selftest Board Assembly has been updated to become the Selftest Box Assembly. The documentation for these updates has been included in the same repository.
+
+## Documentation
+
+- [Bill of Materials (BOM)](selftest_bd/pdf/BOM_Selftest_Box_510-1010.pdf) – List of components required for assembly.
+
+<br>
+<br>
+
+# FIRST STATION TEST Selftest Board Assembly 600-1010-021
+
+This section contains the materials and instructions required to assemble the Selftest Board.
 
  ![Board](selftest_bd/DOC/image/selftest_bd_loaded.jpg)
-
 
 ### Design Tools
 - [KiCad 7](https://www.kicad.org/download/) - Free software application used to design the PCB.
@@ -19,13 +32,13 @@ This project involves the assembly of a custom **Selftest Circuit Board (PCB)** 
 - **Cost-Effective Controller**: The low-cost and powerful **Raspberry Pi Pico Microcontroller** is used to interface with the user and control internal electronics.
 
 ## Assembly Instructions
-   Follow the document [Assembly_Instructions](selftest_bd/pdf/Selftest_Assembly_Instruction.pdf) to complete the assembly of the board.
+   Follow the document [Assembly_Instructions](selftest_bd/pdf/Selftest_Assembly_Instruction_680-1010.pdf) to complete the assembly of the board.
 
 ## Design Files
-- [Gerber Files](selftest_bd/gerber_to_order) – Gerber files for PCB fabrication (JLCPCB is the one used by the project).
-- [Assembly Schematic](selftest_bd/pdf/Selftest_Assembly_Diagram.pdf) – Parts and value to help hand assemblies of components.
-- [Electrical Schematic](selftest_bd/pdf/Selftest_Schematic.pdf) – Review the full electrical schematic diagram for reference.
-- [Bill of Materials (BOM)](selftest_bd/pdf/BOM_Selftest_Board_600-1010.pdf) – List of components required for assembly.
+- [Gerber Files](https://github.com/dlock8/Selftest_Board/tree/main/selftest_bd/gerber_to_order) – Gerber files for PCB fabrication (JLCPCB is the one used by the project).
+- [Assembly Schematic](selftest_bd/pdf/Selftest_Assembly_Diagram_670-1010.pdf) – Parts and value to help hand assemblies of components.
+- [Electrical Schematic](selftest_bd/pdf/Selftest_Schematic_640-1010.pdf) – Review the full electrical schematic diagram for reference.
+- [Bill of Materials (BOM)](selftest_bd/pdf/BOM_Selftest_Board_610-1010.pdf) – List of components required for assembly.
 
 ---
 
